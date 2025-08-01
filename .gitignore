@@ -11,7 +11,9 @@
 .svn/
 .swiftpm/
 migrate_working_dir/
-
+# Firebase and secrets
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
 
 .android/
 .ios/
